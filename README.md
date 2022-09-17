@@ -27,7 +27,7 @@
 
 ## :book: Sobre
 O **quiz-guine-bissau**
- é um projeto de Contagem Regressiva de novo ano, que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [dribbble](dribbble.com)
+ é um projeto de Quiz sobre Guiné-Bissau , que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [dribbble](dribbble.com)
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
