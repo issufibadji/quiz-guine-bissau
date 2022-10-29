@@ -1,5 +1,3 @@
-# Quiz-guine-bissau
-
 <h1 align="center" color=" ">
    quiz-guine-bissau
 </h1>
